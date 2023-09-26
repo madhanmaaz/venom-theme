@@ -1,0 +1,26 @@
+{
+    "name": "venom-monokai",
+    "displayName": "%displayName%",
+    "description": "%description%",
+    "version": "1.0.0",
+    "publisher": "vscode",
+    "license": "MIT",
+    "author": "MADHAN",
+    "engines": {
+        "vscode": "*"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "id": "venom-monokai",
+                "label": "%themeLabel%",
+                "uiTheme": "vs-dark",
+                "path": "./themes/venom-monokai.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/madhanmaaz/venom-theme"
+    }
+}
