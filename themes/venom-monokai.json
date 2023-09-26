@@ -7,7 +7,7 @@
         "dropdown.listBackground": "#0D0D0D",
         "list.inactiveSelectionBackground": "#333",
         "list.hoverBackground": "#333",
-        "list.dropBackground": "#ff0000",
+        "list.dropBackground": "#191919",
         "list.highlightForeground": "#F8F8F2",
         "button.background": "#5e2bff",
         "editor.background": "#000008",
